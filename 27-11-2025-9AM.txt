@@ -331,9 +331,12 @@ Solution:
 	Time (T) = 2 years
 	
 	Step 1: Use compound interest formula
-	                    T
-	A = P( 1 + (R / 100))
-	
+
+	* Point to remember
+     _____________________________
+   	|                        T    |
+	|   A = P( 1 + (R / 100))     | 
+	|_____________________________|
 	Step 2: Substitute values
 	
 	A = 6800( 1 + (15 / 100) )²
