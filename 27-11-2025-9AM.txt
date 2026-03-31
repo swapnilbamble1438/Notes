@@ -1,0 +1,814 @@
+
+
+Test Date: 27/11/2025
+
+Test Time: 9:00 AM - 10:30 AM
+
+
+* Find the Prime Factors of 36:
+Solution:  36 = 2 x 18
+			18 = 2 x 9
+			9 = 3 x 3
+			3 = 3 x 1
+		
+		2 x 2 x 3 x 3
+		2² x 3²  <--- so this is our Prime Factors.
+-------------------------------------------------------------------------------------		
+* Find HCF and LCM of 84 and 126
+Solution:
+		
+		84 = 2 x 42    |   126 = 2 x 63
+		42 = 2 x 21    |   63 = 3 x 21
+		21 = 3 x 7     |   21 = 3 x 7
+		7 = 7 x 1      |   7 = 7 x 1
+		               |
+      2 x 2 x 3 x 7    |  2 x 3 x 3 x 7
+       2² x 3 x 7      |  2 x 3² x 7 
+
+	2 x 3 x 7 = 42  <--- HCF (Highest Common Factor)
+	
+	2³ x 3² x 7 = 252  <---- LCM (Least Common Multiple)
+	
+-------------------------------------------------------------------------------------		
+
+* Find HCF and LCM of 45 and 70
+Solution:
+		
+		45 = 3 x 15    |   70 = 2 x 35
+		15 = 3 x 5     |  35 = 5 x 7
+		5 = 5 x 1      |   7 = 7 x 1
+		               |
+      3 x 3 x 5        |  2 x 5 x 7
+       3² x 5          |  
+
+	5  <--- HCF (Highest Common Factor)
+	
+	2 x 3² x 5 x 7 = 630  <---- LCM (Least Common Multiple)
+	
+-------------------------------------------------------------------------------------			
+					   
+Q) Two numbers have an HCF of 18 and an LCM of 1512. If one of the numbers is 126,
+find the positive difference between these number.
+A. 256
+B. 126
+C. 216
+D. 90 <--
+
+Solution:
+ LCM x HCF = Product of the two numbers
+ 
+ Step1: LCM x HCF
+        1512 x 18 = 27216
+ 
+ Step2: Finding second number
+	
+	  second number = 27216   =   216
+	                  -----
+					   126
+					   
+ Step3: Find the difference between number one and number two
+		216 - 126 = 90
+		
+-------------------------------------------------------------------------------------		
+
+Q) P is any point inside the rectangle ABCD. If PA = 98 cm, PB = 91 cm and PC = 21 cm,
+then the length of PD (in cm) is equal to:
+A. 46
+B. 41
+C. 38
+D. 42  <--
+
+Solution: 
+           A________D
+		   |\      /|
+		   | \    / |
+		   |  \  /  |
+		   |   \/P  |
+		   |   /\   |
+		   |  /  \  |
+           | /    \ |
+           |/______\|      
+		   B        C
+		   
+		   
+	AP² + PC² = PB² + PD²
+	98² + 21² = 91² PD²
+	10045 = 8281 + PD²
+	PD² = 1764
+	      ____
+	PD = /1764
+	PD = 42
+	
+-------------------------------------------------------------------------------------			
+	 
+Q) 1/20 is what percentage of 10/40 ?
+A. 30%
+B. 35%
+C. 20%  <--
+D. 40%
+
+Solution:
+   1
+   --                   1       40
+   20     x  100  =     --  x   --   x   100  =   20 %
+  ----                  20      10
+   10
+   --
+   40
+ 
+-------------------------------------------------------------------------------------		
+
+Q) A fruit vendor bought 150 mangoes. He sold them at such a price that the selling
+price of 120 mangoes equals the cost price of 150 mangoes. Find his profit
+percentage.
+A. 35%
+B. 30%
+C. 20%
+D. 25%  <--
+
+Solution: 
+ lets assume cost price of 1 mango = Rs 1
+  
+  so cost price of 150 mangoes = Rs 150
+  
+  Given: selling price of 120 mangoes = cost price of 150 mangoes
+  
+  selling price of 1 mango = 150 / 120 = Rs 1.25
+  
+  so total selling price of 150 mangoes = 150 x 1.25 = Rs 187.5
+  
+  profit = 187.5 x 150 = 37.5 %
+  
+  37.5
+  ----  x  100 = 25%
+  150
+  
+-------------------------------------------------------------------------------------		
+
+Q) Smriti goes to a shopping mall at a speed of 21 km/hr and returns at a speed of 69
+km/hr. Find her average speed (in km/hr) for the entire trip.
+A. 32.2  <--
+B. 23.4
+C. 30.3
+D. 40.2
+
+Solution:
+ When distances are equal:  Average Speed = 2𝑥y
+                                            ---
+											𝑥 + y
+											
+ where 𝑥 = 21 km/h, y = 69 km/h
+	
+ 2 x 21 x 69      161         32.2
+ -----------  =  ------  =   
+   21 + 69         90
+   
+-------------------------------------------------------------------------------------		
+
+Q)In statistics out of 100, the marks of 21 students in final exams are as 90, 95, 95, 94,
+90, 85, 84, 83, 85, 81, 92, 93, 82, 78, 79, 81, 80, 82, 85, 76, 85, then the mode of data is:
+A. 87
+B. 83
+C. 85  <--
+D. 84  
+
+Solution:
+ what is mode: 
+ Mode = the number that appears most frequently
+ 
+ so 85 appears 4 times, which is most than other numbers,a
+ so 85
+
+-------------------------------------------------------------------------------------		
+
+Q) Two-fifth of a container is filled with blue liquid, one-third of the remaining container 
+is filled with black liquid, 
+five-sixth of the still remaining container is filled with yellow liquid 
+and the remaining 4.2 litres is of white colour. Find the total capacity of the container. 
+A. 72 litres 
+B. 63 litres 
+C. 78 litres 
+D. 60 litres
+
+Solution:
+ Assume total capacity = 𝑥 litres
+ 
+ Step 1: Blue liquid
+			2
+			- 𝑥 is filled
+			5
+			
+ Remaining:         2𝑥       𝑥 x 5 - 2𝑥 x 1       5𝑥 - 2𝑥     3𝑥
+               𝑥 -  ---  =  ----------------- = ---------- = ---
+                     5	        1 x 5	   	       5          5
+					
+			
+ Step 2: Black liquid
+            1                  1    3𝑥    3𝑥     1𝑥
+		   --- of remaining = --- x --- = --- =  ---
+			3                  3     5    15     5
+			
+ Remaining:  3𝑥      1𝑥      3𝑥 x 5 - 1𝑥 x 5      15𝑥 - 5𝑥    10𝑥    2𝑥
+             ---  -  --   =  ---------------- =   -------- = ---  = --- 
+              5      5            5 x 5             25        25     5
+			  
+			  
+ Step 3: Yellow liquid
+			5                 5     2𝑥        2𝑥     1𝑥
+			-- of remaining = -- x  --  =     --  =  --
+			6                 6      5        6      3
+			
+ Remaining:    2𝑥   -  1𝑥     2𝑥 x 3 - 1𝑥 x 5        6𝑥 -5𝑥     1𝑥
+               ---     --  = ----------------- =   --------- = ---
+			    5      3          5 x 3                15       15
+				
+				
+ Step 4: White liquid
+ Given:     1𝑥  = 4.2
+            --  
+			15
+			
+			𝑥 = 4.2 x 15 = 63
+			
+	so 63 litres is the final answer
+-------------------------------------------------------------------------------------		
+
+Q) If 20% of a number is added to 90, then the result is the same number. 
+80% of the same number is:
+A. 110
+B. 120
+C. 90  <--
+D. 100	
+
+Solution:
+ Step 1: let the number be 𝑥
+ Given: 
+		90 + 20% of 𝑥 = 𝑥
+		
+ Step 2: write in equation form and solve
+        𝑥 = 90 + 0.2𝑥
+ 
+		𝑥 - 0.2𝑥 = 90
+		𝑥(1-0.2) = 90
+		       90          90
+		𝑥 =  --------  =   ---   =  112.5
+			  1 - 0.2      0.8
+			  
+ step 3: Find 80% of the number
+        80% of 𝑥
+	  =	0.8 x 112.5
+	  = 90
+	  
+	  90 is the answer
+	
+-------------------------------------------------------------------------------------		
+
+Q) Soniya got married 15 years ago. Her present age is 8/5 times her age 
+at the time of her marriage. Her sister was 8 years younger to her at the 
+time of her marriage. Find the present age of her sister.
+A. 24 years
+B. 28 years
+C. 40 years
+D. 32 years  <---
+
+Solution:
+ Step 1: let soniya's age at marriage = 𝑥
+ 
+ Present age of Soniya = 𝑥 + 15
+ 
+ Step 2: Given
+               8
+ Present age = -- x age at marriage
+			   5
+		
+		        8𝑥
+	  𝑥 + 15 =  ---
+				5
+	
+ Step 3: Solve
+    5(𝑥 + 15) = 8𝑥
+	5𝑥 + 75 = 8𝑥
+	75 = 8𝑥 - 5𝑥
+	75 = 3𝑥
+	      75
+	  𝑥 = ---
+		   3
+	
+	  𝑥 = 25 , so 25 is the age of soniya whene she was getting married
+
+ Step 4: Present age of Soniya	  
+        25 + 15 = 40
+		
+ Step 5: Sister's age
+	At the time of marriage:
+			25 - 8 = 17
+			
+	Present age:
+			17 + 15 = 32
+			
+-------------------------------------------------------------------------------------	
+
+Q) The amount on a sum of ₹6,800 at 15% per annum compound interest, compounded
+annually, in 2 years' time, will be:
+A. ₹9,393
+B. ₹8,993  <--
+C. ₹8,641
+D. ₹7,996
+
+Solution:
+ 
+	Given:
+	Principal (P) = Rs 6800
+	Rate (R) = 15% per year
+	Time (T) = 2 years
+	
+	Step 1: Use compound interest formula
+	                    T
+	A = P( 1 + (R / 100))
+	
+	Step 2: Substitute values
+	
+	A = 6800( 1 + (15 / 100) )²
+	
+	  = 6800 ( 115 / 100 )²
+	  = 6800 ( 23 / 20 )²
+	  = 6800 (1.15)²
+	  = 8993
+	  
+-------------------------------------------------------------------------------------
+
+Q) The average age of 26 students of a class is 26 years. If the age of the teacher is 
+also included, the average age of the whole group becomes 27 years. The age (in years) of
+the teacher is:
+A. 53  <--
+B. 50
+C. 57
+D. 54	  
+	  
+Solution: 
+ Step 1: Total age of 26 students
+			Total = 26 x 26 = 676
+			
+ Step 2: Total age including teacher (27 people)
+			Total = 27 x 27 = 729
+			
+ Step 3: Find teacher's age
+			Teacher age = 729 - 676 = 53
+			
+-------------------------------------------------------------------------------------
+
+Q) A metal rod is divided into three parts, A, B and C. The lengths of A and B are in the
+ratio 9 : 20, and the lengths of C and B are in the ratio 5 : 11. If the difference between
+the lengths of A and C is 10 cm, find the total length (in cm) of the metal rod.
+A. 4190  <--
+B. 4180
+C. 4199
+D. 4202	
+
+Solution:
+
+	Given:
+   * A:B = 9:20
+   * C:B = 5:11
+   * Difference between A and C = 10 cm
+
+ Step 1: Make B same in both ratios
+ 20 = 2 x 10     |    11
+ 10 = 2 x 5      |
+  5 = 5 x 1      |  
+                 |
+  2² x 5         |    11
+  
+  2² x 5 x 11  = 220
+  
+  First ratio:
+  9:20
+  To make 20 -> 220, multiply by 11
+    9 x 11 : 20 x 11 
+  = 99:220
+  
+  Second ratio:
+  5:11
+  To make 11 -> 220, multiply by 20
+    5 x 20 : 11 x 20
+  = 100:220
+
+  Now Both have same B = 220
+  
+  Step 2: Write in terms of 𝑥
+
+  * A = 99𝑥
+  * b = 220𝑥
+  * C = 100𝑥
+  
+  Step 3: Use given condition
+	C - A = 10
+	100𝑥 - 99𝑥 = 10
+	𝑥 = 10
+	
+ Step 4: Find total length
+	A + B + C = 99𝑥 + 220𝑥 + 100𝑥
+	          = 449𝑥
+			  = 449 x 10
+			  = 4190
+			  
+	so 4190 cm is the answer
+
+-----------------------------------------------------------------------------------
+
+Q) A scheme like ‘Buy 6, Get 4 Free’ on the same kind of articles with the same MRP
+attracts a _____ % discount.
+A. 66.67
+B. 41
+C. 40  <--
+D. 67.67
+
+Solution:
+
+ Understand the offer
+
+ “Buy 6, Get 4 Free” means:
+
+ You pay for 6 items
+ But you get 10 items
+ 
+ Step 1: assume price
+ let price of 6 items = Rs 6
+ 
+ so price of 1 item = Rs 1
+ 
+ so we are getting 10 item of cost Rs 10 but at price of 6 items that is Rs 6
+ 
+ Step 2: find discount
+	Discount = 10 - 6 = 4
+
+ so we are gettng 4 extra items in discount
+ 
+ Step 3: Discount %
+ 
+		4
+		--  x 100 = 40%
+		10
+		
+	so 40 % is the discount
+
+------------------------------------------------------------------------------------
+
+Q) If p = 6, q = −3, then the value of p³ – 3p² + 3p + 3q + 3q² + q³ is:
+A. –61
+B. 117  <--
+C. –117
+D. 61	
+
+Solution:
+
+ Given: p = 6, q = -3
+ 
+   (6)³ – 3(6)² + 3(6) + 3(-3) + 3(-3)² + (-3)³
+ = 117
+ 
+-------------------------------------------------------------------------------------
+
+* Foundation of all train problems
+
+Speed tells you how fast something is moving
+
+Formula :          
+					Distance
+			Speed = ---------
+					  Time
+					  
+Example:
+If a car travels 60 km in 1 hour
+speed of car = 60 km/h
+
+* Relative speed
+It means:
+How fast one object appears to move compared to another.
+
+Two cases of Relative speed:
+
+     Same Direction               |     Opposite Direction
+* Both moving forward             |  * Both moving towards each other	 
+* One is catching the other       |
+* Formula:						  |	 * Formula:
+  Relative Speed =                |    Relative Speed =
+  Difference of Speeds            |    Sum of Speeds
+* Example: Train = 50 km/h        |  * Example Train = 50 km/h
+         Man = 10 km/h            |            Man = 10 km/h
+  Relative Speed =                |    Relative Speed = 
+  50 - 10 = 40 km/h               |    50 + 10 = 60 km/h
+		 
+
+-------------------------------------------------------------------------------------
+Q) A 325 m long train overtakes a man moving at a speed of 5 km/hr (in the same
+direction) in 45 seconds. How much time (in seconds) will it take this train to
+completely cross another 440 m long train, moving in the opposite direction at a
+speed of 20 km/hr?
+A. 40
+B. 54  <--
+C. 51
+D. 52	
+
+Solution:
+	
+	Given: 
+	* length of first train = 325m
+	* Man speed = 5km/h
+	* Time to overtake = 45sec
+	* second train length = 440m
+	* second train speed = 20 km/h (opposite direction)
+	
+	Step 1: Find train speed
+	when train overtakes man:
+						 325
+		Relative speed = ---- = 7.22 m/s
+						  45
+						  
+ 		Convert man speed in m/s:
+			  5	   25
+		  5 x -- = --  = 1.39 m/s 
+			  18   18 
+			  
+			  
+		Train speed = 7.22 + 1.39 = 8.61 m/s
+
+	Step 2: Relative speed (opposite direction)
+	convert second train speed:
+	
+	       5    100
+	  20 x -- = ----  =  5.56 m/s
+		   18    18
+		   
+	  Relative speed = 8.61 + 5.56 = 14.17 m/s	 
+
+	Step 3: Total distance
+			325 + 440 = 765m
+			
+	Step 4: Time
+				765   
+		Time = ------ = 54 sec
+		       14.17
+ 
+---------------------------------------------------------------------------------	  
+	
+Q) 
+
+-----------------------------------------------------------------------------------
+
+Q) If △ x 2.2 + 0.33 x 3/4 - 1/20 x 0.55 = 0.99, then the value of △ is
+A. 0
+B. 0.25
+C. 1
+D. 0.35  <--
+
+Solution:
+	
+	△ x 2.2 + 0.33 x 3   -   1     x 0.55 = 0.99
+	                 ---     ---  
+					  4       20
+					  
+	△ x 2.2 + 0.99  - 0.55   = 0.99
+              -----	  -----
+		        4	   20		   
+				
+	△ x 2.2 + 0.2475 - 0.0275 = 0.99
+	2.2△ + 0.22 = 0.99
+	2.2△ = 0.99 - 0.22
+	2.2△ = 0.77
+	△ = 0.77
+	    ------
+		  2.2
+		  
+    △ = 0.35
+
+------------------------------------------------------------------------------------	
+
+Q) 43 An article was bought for ₹8,900. Its price was marked up by 40%. Thereafter, it was
+sold at a discount of 5% on the marked price. What was the profit percentage on the
+transaction?
+A. 33% <--
+B. 35%
+C. 34%
+D. 32%
+
+Solution:
+	
+	Step 1: Cost Price (CP)
+	CP = Rs. 8900 
+	
+	Step 2: Marked Price (MP)
+	Marked up by 40 %
+	MP = 8900 + 40% of 8900
+	   = 8900 + 40  x 8900
+	            ---
+				100
+	
+	   = 8900 + 3560 
+	   = 12460
+	   
+	Step 3: Selling Price (SP)
+	Discount = 5% on MP
+	SP = 12460 - 5% of 12460
+	   = 12460 -  5  x 12460
+	             ---
+				 100
+	   = 12460 - 623
+       = 11837
+
+	Step 4: Profit
+	Profit = SP - CP 
+	       = 11837 - 8900
+		   = 2937
+		   
+	Step 5: Profit%
+	            2937
+	Profit % = ------ x 100 = 33%
+	            8900
+				
+-------------------------------------------------------------------------------------------
+
+The cost of a washing machine is 40% less than the cost of a TV. If the cost of the
+washing machine increases by 52% and that of the TV decreases by 76%, then what
+is the percentage change in the total cost of 5 washing machines and 2 TVs?
+A. Increase by 0.8%  <--
+B. Decrease by 2%
+C. Increase by 5%
+D. Decrease by 3%
+		
+Solution: 
+		
+	let the cost of a TV = 100	
+	Step 1: Cost of washing machine
+	40% less than TV:
+	CP of WM = 100 - 40 = 60
+	
+	Step 2: Initial Total Cost
+	5WM + 2TV
+	= 5 x 60 + 2 x 100
+	= 300 + 200
+	= 500
+	
+	Step 3: New prices after change
+	WM increases by 52%	
+	New CP of WM = 60 + 52 x 60
+	                    --
+						100
+						
+				 = 60 + 52 X 3
+                        --
+                        5
+						
+			     = 60 + 156
+                        ---
+                         5
+
+			    = 60 + 31.2
+				= 91.2
+		
+	TV decreases by 76%
+	New CP of TV = 100 - 76   x 100
+                         ---	
+						 100
+						 
+				 = 100 - 76
+				 = 24
+				 
+	Step 4: New total cost
+    5WM + 2TV
+    = 5 x 91.2 + 2 + 24
+    = 456 + 48
+    = 504
+
+	Step 5: Percentage change
+	change = 504 - 500 = 4
+	
+	               4
+	  % change =  ---    x   100 = 0.8%
+				  500
+				  
+---------------------------------------------------------------------------------------------
+
+Q) If tan theta = 12/5, what is the value of sec theta ?
+
+A. 13/5  <---
+B. 5/13
+C. 13/12
+D. 12/5
+
+Solution: 
+
+	let write theta like this '(-)'
+	
+	Step 1: Use identity
+	
+	sec²(-) = 1 + tan²(-)
+	
+	Step 2: Substitute
+	
+			       (12 )²
+	sec²(-) = 1 +  (---) 
+                   ( 5 )
+				   
+				   144      169
+            = 1 + -----  =  ----
+                    25		 25
+
+                 _______
+                / 169		  13
+    sec(-) =   /  ----    =   ---   
+			 \/    25		   5	
+		
+----------------------------------------------------------------------------------------------		
+
+Q) The total surface area of a solid right circular cylinder is 542 cm². Its curved surface 
+area is two-fifth of its total surface area. Find the curved surface area of the cylinder.
+A. 216.8 cm²  <---
+B. 513.2 cm² 
+C. 315.4 cm² 
+D. 212.5 cm² 
+
+Solution:
+	Given:
+	* Total Surface area (TSA) = 542 cm2
+	                               2
+	* Curved Surface Area (CSA) = --- of TSA
+	                               5
+	
+	Step 1: Find CSA
+	
+			2
+	CSA =  ----  x 542
+	        5
+	
+		   1084
+		= -------
+		     5
+			 
+		= 216.8² 
+
+-------------------------------------------------------------------------------------------
+
+Q) Which of the following ratios is equivalent to 3 : 2?
+A. 53 : 38  
+B. 54 : 36  <---
+C. 52 : 34
+D. 51 : 37
+		
+Solution: 
+
+	Check All options one by one:
+	
+	           54     3
+	* 54:36 =  --  = ---
+               36     2
+  
+--------------------------------------------------------------------------------------------
+
+
+Q.50 A and B working together can do a piece of work in 6 days. B alone can do the same
+work in 12 days. How long (in days) will A alone take to do double the work?
+A. 24 <--
+B. 27
+C. 25
+D. 12
+
+Solution: 
+	
+	let total work = 1 unit
+	
+	Step 1: Rates
+	
+	* A and B do a piece of work in 6 days
+	  A + B = 1
+	          --
+			  6
+			  
+	* B alone do a piece of work in 12 days
+      B = 1
+          --
+          12
+
+    Step 2: Finding how much time will A take to do a piece of work
+			  
+	A = A + B - B 
+	    1      1       12 - 6       6       1
+	  = --  -  --  =  --------- =  ----  =  --
+	    6      12       6 x 12      72      12
+		
+	so A Time for a peice of work = 12
+		
+	so A will take 12 days to complete a piece of work
+
+
+    Step 3: Finding how much time will A take to do double piece of work
+    
+	
+	so A Time for double piece of work = A Time for a piece of work x 2 days
+                                       = 12 x 2
+                                       = 24		
+
+	so A will take 24 days to complete double piece of work
+									   
+	
+----------------------------------------------------------------------------------------
