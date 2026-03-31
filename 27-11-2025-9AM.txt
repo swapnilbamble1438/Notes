@@ -500,6 +500,7 @@ How fast one object appears to move compared to another.
 Two cases of Relative speed:
 
      Same Direction               |     Opposite Direction
+----------------------------------|-------------------------------------------
 * Both moving forward             |  * Both moving towards each other	 
 * One is catching the other       |
 * Formula:						  |	 * Formula:
@@ -561,10 +562,6 @@ Solution:
 		Time = ------ = 54 sec
 		       14.17
  
----------------------------------------------------------------------------------	  
-	
-Q) 
-
 -----------------------------------------------------------------------------------
 
 Q) If △ x 2.2 + 0.33 x 3/4 - 1/20 x 0.55 = 0.99, then the value of △ is
@@ -712,9 +709,11 @@ Solution:
 	let write theta like this '(-)'
 	
 	Step 1: Use identity
-	
-	sec²(-) = 1 + tan²(-)
-	
+
+	* Point to remember:
+	__________________________
+   | sec²(-) = 1 + tan²(-)    |
+   |__________________________|
 	Step 2: Substitute
 	
 			       (12 )²
