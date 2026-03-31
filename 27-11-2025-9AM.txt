@@ -840,7 +840,7 @@ Solution:
 --------------------------------------------------------------------------------------------
 
 
-Q.50 A and B working together can do a piece of work in 6 days. B alone can do the same
+Q) A and B working together can do a piece of work in 6 days. B alone can do the same
 work in 12 days. How long (in days) will A alone take to do double the work?
 A. 24 <--
 B. 27
