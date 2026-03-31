@@ -79,17 +79,16 @@ C. 38
 D. 42  <--
 
 Solution: 
-           A________D
-		   |\      /|
-		   | \    / |
-		   |  \  /  |
-		   |   \/P  |
-		   |   /\   |
-		   |  /  \  |
-           | /    \ |
-           |/______\|      
-		   B        C
 		   
+		   A______________D
+		   |         |    |
+	       |         |    |
+		   |_________|____|
+           |         |P   |
+           |_________|____|      
+		   B              C
+
+	* Formula: Sum of squares of one diagonal pair = sum of squares of other diagonal pair
 		   
 	AP² + PC² = PB² + PD²
 	98² + 21² = 91² PD²
