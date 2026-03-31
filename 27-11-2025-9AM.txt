@@ -4,6 +4,102 @@ Test Date: 27/11/2025
 
 Test Time: 9:00 AM - 10:30 AM
 
+------------------------------------------------------------------------
+* Foundation of all train problems
+
+Speed tells you how fast something is moving
+
+Formula :          
+					Distance
+			Speed = ---------
+					  Time
+					  
+Example:
+If a car travels 60 km in 1 hour
+speed of car = 60 km/h
+
+* Relative speed
+It means:
+How fast one object appears to move compared to another.
+
+Two cases of Relative speed:
+
+     Same Direction               |     Opposite Direction
+----------------------------------|-------------------------------------------
+* Both moving forward             |  * Both moving towards each other	 
+* One is catching the other       |
+* Formula:						  |	 * Formula:
+  Relative Speed =                |    Relative Speed =
+  Difference of Speeds            |    Sum of Speeds
+* Example: Train = 50 km/h        |  * Example Train = 50 km/h
+         Man = 10 km/h            |            Man = 10 km/h
+  Relative Speed =                |    Relative Speed = 
+  50 - 10 = 40 km/h               |    50 + 10 = 60 km/h
+
+
+		 
+1 Hr = 60 min
+1 min = 60 sec
+1 Hr = 60 x 60 sec
+1 Hr = 3600 sec
+
+          1 Hr
+1 sec = --------
+         3600
+
+
+1 Km = 1000 m
+
+        1 Km
+1 m = --------
+        1000 
+
+* Points to remember:                                       
+ ____________________________________________________
+|                                     5              |
+| For converting Km/h to m/s we use  --- m/s         |
+|                                     18             |     
+|____________________________________________________|
+
+Because:
+
+           1000 m        10      5
+1 Km/h = -----------  =  ---  = ---
+          36000 sec      36      18
+
+
+Example:
+
+Convert 72 km/h to m/s:
+
+       5
+72 x ---- = 4 x 5 = 20
+      18
+
+Answer: 20 m/s
+
+
+ ______________________________________________________
+|                                     18               |
+| For converting m/s to Km/h we use  ---- Km/h         |
+|                                     5                |
+|______________________________________________________|
+
+         3600            36      18
+1 m/s = -------- km/h = ---- =  ----
+         1000            10       5
+
+Example:
+
+Convert 10 m/s to km/h:
+
+      18
+10 x ---- = 2 x 18 = 36
+       5
+
+Answer: 36 km/h
+
+----------------------------------------------------------------------------------
 
 * Find the Prime Factors of 36:
 Solution:  36 = 2 x 18
@@ -477,40 +573,6 @@ Solution:
  
    (6)³ – 3(6)² + 3(6) + 3(-3) + 3(-3)² + (-3)³
  = 117
- 
--------------------------------------------------------------------------------------
-
-* Foundation of all train problems
-
-Speed tells you how fast something is moving
-
-Formula :          
-					Distance
-			Speed = ---------
-					  Time
-					  
-Example:
-If a car travels 60 km in 1 hour
-speed of car = 60 km/h
-
-* Relative speed
-It means:
-How fast one object appears to move compared to another.
-
-Two cases of Relative speed:
-
-     Same Direction               |     Opposite Direction
-----------------------------------|-------------------------------------------
-* Both moving forward             |  * Both moving towards each other	 
-* One is catching the other       |
-* Formula:						  |	 * Formula:
-  Relative Speed =                |    Relative Speed =
-  Difference of Speeds            |    Sum of Speeds
-* Example: Train = 50 km/h        |  * Example Train = 50 km/h
-         Man = 10 km/h            |            Man = 10 km/h
-  Relative Speed =                |    Relative Speed = 
-  50 - 10 = 40 km/h               |    50 + 10 = 60 km/h
-		 
 
 -------------------------------------------------------------------------------------
 Q) A 325 m long train overtakes a man moving at a speed of 5 km/hr (in the same
