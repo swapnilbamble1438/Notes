@@ -55,7 +55,10 @@ C. 216
 D. 90 <--
 
 Solution:
- LCM x HCF = Product of the two numbers
+* Point to remember:
+ __________________________________________
+| LCM x HCF = Product of the two numbers   |
+|__________________________________________|
  
  Step1: LCM x HCF
         1512 x 18 = 27216
@@ -88,8 +91,10 @@ Solution:
            |_________|____|      
 		   B              C
 
-	* Formula: Sum of squares of one diagonal pair = sum of squares of other diagonal pair
-		   
+	* Point to remember:
+	  _______________________________________________________________________________________ 
+	 | Formula: Sum of squares of one diagonal pair = sum of squares of other diagonal pair  |
+	 |_______________________________________________________________________________________|	   
 	AP² + PC² = PB² + PD²
 	98² + 21² = 91² PD²
 	10045 = 8281 + PD²
@@ -136,7 +141,7 @@ Solution:
   
   so total selling price of 150 mangoes = 150 x 1.25 = Rs 187.5
   
-  profit = 187.5 x 150 = 37.5 %
+  profit = 187.5 - 150 = 37.5
   
   37.5
   ----  x  100 = 25%
@@ -152,10 +157,12 @@ C. 30.3
 D. 40.2
 
 Solution:
- When distances are equal:  Average Speed = 2𝑥y
-                                            ---
-											𝑥 + y
-											
+* Point to remember:
+ _______________________________________________________
+| When distances are equal:  Average Speed = 2𝑥y        |
+|                                            ---        |
+|											𝑥 + y       |
+|_______________________________________________________|											
  where 𝑥 = 21 km/h, y = 69 km/h
 	
  2 x 21 x 69      161         32.2
