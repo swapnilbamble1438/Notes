@@ -700,7 +700,7 @@ Solution:
 				
 -------------------------------------------------------------------------------------------
 
-The cost of a washing machine is 40% less than the cost of a TV. If the cost of the
+Q) The cost of a washing machine is 40% less than the cost of a TV. If the cost of the
 washing machine increases by 52% and that of the TV decreases by 76%, then what
 is the percentage change in the total cost of 5 washing machines and 2 TVs?
 A. Increase by 0.8%  <--
