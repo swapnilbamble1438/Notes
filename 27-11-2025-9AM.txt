@@ -870,7 +870,7 @@ Solution:
 	  = --  -  --  =  --------- =  ----  =  --
 	    6      12       6 x 12      72      12
 		
-	so A Time for a peice of work = 12
+	so Time take by A for a peice of work = 12
 		
 	so A will take 12 days to complete a piece of work
 
@@ -878,7 +878,7 @@ Solution:
     Step 3: Finding how much time will A take to do double piece of work
     
 	
-	so A Time for double piece of work = A Time for a piece of work x 2 days
+	so Time taken by A for double piece of work = A Time for a piece of work x 2 days
                                        = 12 x 2
                                        = 24		
 
