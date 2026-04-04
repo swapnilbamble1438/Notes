@@ -1,0 +1,416 @@
+Q) The arithmetic mean of the observations 76, 28, 79, 17, 33, 95, 83, 30 and 27 is:
+Ans A. 61
+B. 46
+C. 52
+D. 47
+
+Solution:
+
+  Add all the numbers and divide by total observations (9):
+  
+  Sum = 76 + 28 + 79 + 17 + 33 + 95 + 83 + 30 + 27
+      = 468
+	  
+  Mean = 468 / 9 
+       = 52
+	   
+---------------------------------------------------------------------------------------------
+
+Q) The side of an equilateral triangle is equal to the side of a square. What is the ratio
+of the circumradius of the equilateral triangle to the inradius of the square?
+       _
+A.  3:/2
+     _
+B.  /3:2
+    _  _
+C. /2:/3
+      _
+D. 2:/3   <--
+
+Solution:
+
+______________________________________________
+                                              |
+  Circumradius of an Equilateral Triangle     |
+______________________________________________|     
+  
+                         A
+			          *  * *
+			      * 	/|\   *
+			   *       / | \     *
+		     *        /  |  \      *
+		    *        /   |   \      *
+		   *	    /    |    \      * 
+		  *       a/     |     \a     *
+		  *       /      o      \     *
+		  *	     /     /   \     \    *
+		  *	    /    /       \    \   *
+		   *   /   /           \   \  *
+		    * /  /               \  \*
+		   B *-----------------------* C
+			   *         a         *
+			      *             *
+				     *   *   * 
+					 
+In Equilateral Triangle diagram
+Circumcenter (o)
+* The point O (shown in the middle) is the circumcenter
+* It is the center of the circle that passes through all three vertices A, B, and C
+* In an equilateral triangle, it is also:
+	Intersection of medians
+	Intersection of perpendicular bisectors
+	Same as centroid & incenter (all coincide)
+		
+
+Circumradius (R)
+The circumradius is the distance from o to any vertex (A/B/C)
+
+* So:
+OA=OB=OC=R
+
+This is the radius of the circumcircle (the outer circle passing through A, B, C)		 
+					 
+
+_________________________
+                         |
+Inradius of a Square     |
+_________________________|
+
+			A_______________ B   
+			|   .-'   '-.   |
+			| .'         '. |
+			|/             \|
+		   p|-------o-------|
+			|\      |      /|
+			| '.    |r   .' |
+			|__ '-._|_.-' __|
+		   C        q       D
+
+
+
+What is Inradius (r)?
+o = center of the square
+The vertical line from o to any side = inradius (r)
+
+In diagram:
+
+That downward vertical line from o = r (inradius)
+
+Note: not from o to A or B or C or D they are corners.
+
+📏 Value
+* Side of square = a
+ r = a / 2
+
+* About Points
+A, B, C, D → corners (vertices)
+o → center
+
+* Important
+o is center
+o → side (via midpoint like p or q) = inradius ✅
+o → A / B / C / D (corner) = NOT inradius ❌
+p, q → midpoints of sides
+
+🧠 Simple Memory
+Center → midpoint of side = Inradius
+Center → corner = Circumradius
+
+
+Now Solve:
+
+
+---------------------------
+* Equilateral Triangle     
+---------------------------
+
+Side = a
+Circumradius (R) = distance from center o to any vertex
+         __
+R = a / /3
+
+-----------------------
+* Square
+-----------------------
+* side = a
+* Inradius (r) = distance from center o to any side
+
+r = a / 2
+
+
+
+
+* Required Ratio
+         a    a
+R : r =  __ : __
+        /3    2
+		
+	
+		
+			  a    
+			  __ 
+			 /3	           a        2
+		=  -------   =     __  x   ___ 
+			  a           /3        a
+			  __
+			  2
+		 
+		  
+			2
+	    =   __
+		   /3 
+			 
+			  __
+        =  2:/3		 
+	   
+	   
+-------------------------------------------------------------------------------------	   
+	
+Q) Two trains having lengths of 160 m and 140 m are running at speeds of 100 km/hr
+and 130 km/hr, respectively, in the same direction. The time taken (in minutes) by
+the faster train, coming from behind, to completely cross the other train is:3386
+A. 10.4
+B. 3
+C. 0.6 <--
+D. 7.2
+
+Solution:
+
+	Since both trains are moving in the same direction , we use relative speed:
+* Speed of faster train = 130 km/hr
+* Speed of slower train = 100 km/hr
+* Relative speed = 130 - 100 = 30 km/hr
+
+Convert relative speed to m/s:
+      5     150
+30 x  -- =  ---- =  8.33 m/s
+      18     18
+	  
+Total distance to be covered = sum of lengths:
+160 + 140 = 300m
+
+Time taken:
+		
+		300   
+		----  = 36 seconds
+		8.33
+		
+Convert into minutes:
+36
+--- 0.6 minutes
+60		
+	
+---------------------------------------------------------------------------------------
+
+Q) A and B working together can do a piece of work in 6 days. B alone can do the same
+work in 15 days. How long (in days) will A alone take to do double the work?
+A. 23
+B. 10
+C. 20  <--
+D. 21
+
+Solution:
+
+	Step 1: Find efficiency   
+	                          1
+	* (A + B)'s 1 day work = ---
+	                          6
+				
+           				1	 
+	* B's 1 day work = ---			
+                        15
+
+So, A's 1 day work:
+                1       1       15 - 6     9     1
+ (A + B) - B =  --  -   --  =  -------- =  -- =  --
+                6       15        90       90    10
+				
+so, A alone takes 10 days to complete 1 work.
+
+    Step 2: Double the work
+	If A takes 10 days to complete 1 work, then 2 works will take:
+	
+			10 x 2 = 20 days
+
+---------------------------------------------------------------------------------
+
+Q) The ratio of the speeds of two trucks is 7 : 4. 
+The time taken by the faster truck to cover a distance of 196 km
+is 7 hours less than the other. 
+Find the speed of the slower truck. 
+A. 4 km/hr 
+B. 10 km/hr 
+C. 21 km/hr 
+D. 12 km/hr	
+
+Solution:
+
+	let the speds of two trucks be:
+* Faster truck = 7𝑥 km/hr
+* Slower truck = 4𝑥 km/hr
+
+Step 1: 
+		Time = Distance / Speed
+		Distance = 196 km
+		
+		                                196       28
+		* Time taken by faster truck = -----  =  ----
+							             7𝑥        𝑥
+										 
+		                                196     49
+	    * Time taken by slower truck = ----- =  ---                    
+	                                     4𝑥      𝑥
+										 
+Step 2:
+	Given Condition:
+	Faster truck takes 7 hour less than slower truck:
+	
+	49       28
+   ----  -  ----  = 7
+	 𝑥        𝑥 
+	 
+	 
+	49 - 28   = 7
+   ---------
+       𝑥
+	       
+		   21
+	   𝑥 = ---
+            7
+			
+	   𝑥 = 3
+
+Step 3: Find slower truck speed 
+
+		4𝑥 = 4 x 12 = 12 km/hr
+		
+---------------------------------------------------------------------------------------
+Simple real-life example:
+
+Think like this:
+
+You study for 16 hours total
+You study with a friend for 𝑥 hours
+After that, you study alone
+
+👉 So alone study time = 16 − 𝑥
+
+so this same logic will be used in our next Question
+
+
+Q) Two pipes A and B can fill a tank in 18 hours and 24 hours, respectively.
+If both the pipes are opened simultaneously, after how much time (in hours) should
+pipe A be closed so that the tank is full in 16 hours?
+A. 8
+B. 6  <--
+C. 9
+D. 7
+		
+		
+Solution:
+
+
+	Pipe A takes 18 hours to fill a tank
+	Pipe B takes 24 hours to fill a tank
+		
+	Step 1: Work rates
+	                      1
+	* A's 1 hour work =  ---
+	                      18
+						   
+						  1
+    * B's 1 hour work =	 ---
+                          24
+
+							
+	Step 2:  Identify the operating time for each pipe
+	  
+	Simple analogy:
+
+	Think:
+
+	Full tank = 1 job                     	                                    
+	Two Pipes work for some time together                                                               
+	Then one leaves, other continues                                                                   
+	
+	* Total work done = 1 job completed 
+	
+	* Pipe B: It remains open for the entire duration until the
+	          tank is full, which is 16 hours.
+			  
+	* Pipe A: It is closed after some time. Let's call this time
+              𝑥 hours.
+	
+	Step 3: Set up the equation
+	
+	Tht total work done by both pipes must equal to 1(representing one full tank):
+	
+	(Rate of A x Time A is open) + (Rate of B x Time B is open) = 1
+	
+	 1          1
+	(-- x 𝑥) + (-- x 16) = 1
+	 18         24
+	 
+	 𝑥     16
+	 -- + ---- = 1
+	 18    24
+	 
+	 𝑥     2
+	 -- +  -- = 1
+	 18    3
+	 
+	 𝑥         2
+	 -- = 1 - --
+	 18        3
+	 
+	 𝑥     3 - 2 
+	 -- = -------
+	 18      3
+	 
+	 𝑥     1
+	 -- = ---
+	 18    3
+	      
+		  18
+	 x = ----
+	       3
+		   
+     𝑥 = 6		   
+	
+Conclusion:
+Pipe A should be closed after 6 hours.
+---------------------------------------------------------------------------------			  
+	
+Q)  Simplify: 32672 x 32672 - 21864 x 21864
+              ------------------------------
+                         10808
+
+A.		
+B.
+C.
+D.
+
+Solution:
+
+	(32672)² - (21864)²
+    --------------------
+           10808
+
+     a²-b² = (a+b)(a-b)
+   
+
+	(32672 + 21864) (32672 - 21864)
+ =	--------------------------------
+	          10808
+			  
+      (54536) (10808)			  
+ =	 -----------------
+	         10808
+			 
+			 
+ =  54536
+
+---------------------------------------------------------------------------------
+
+
+ 
