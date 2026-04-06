@@ -1,3 +1,88 @@
+
+-----------------------------------------------------------------------------------
+
+Foundation of Simple and Compound Interest:
+
+______________________
+                      |
+Simple Interest (SI)  |
+______________________|
+
+Simple Interest is the interest calculated only on the 
+original principal amount for the entire time period.
+
+👉 Interest does not change every year — it stays constant.
+
+Formula:
+				P x R x T
+		SI = ---------------
+                   100
+				   
+Meaning of Symbols:
+* P = Principal (starting money)
+* R = Rate of interest (per year%)
+* T = Time (in years)
+* SI = Simple Interest
+
+Total Amount:
+		
+		A = P + SI
+		
+Example:
+Q) Find SI on Rs 1000 at 10% for 2 years
+
+			      1000 x 10 x 2
+			SI = ---------------- =  200
+				        100 
+						
+Interest = Rs 200
+Total Amount = Rs 1200	
+
+________________________
+                        |
+Compound Interest (CI)  |
+________________________|
+
+Compound Interest is the interest calculate on 
+principa + previously earned interest.
+
+Interest keeps increasing every year (interest on interest)
+
+                      T
+	A = P (1 +  R/100)
+	
+Meaning of symbols:
+* A = Final Amount
+* P = Principal 
+* R = Rate (%)
+* T = Time (years)
+
+  CI = A - P
+
+Example:
+Q) Find CI on Rs 1000 at 10% for 2 years.
+
+Solution:
+
+	A = 1000 (1 + 10/100)²
+	
+
+    A = 1000 (1 + 0.10)²
+		  
+	A = 1000 (1.10)²
+
+	A = 1000 x 1.10 x 1.10
+	
+	A = 1000 x 1.21
+
+	A =  1210
+	
+Interest = Rs 210
+Total Amount = Rs 1210	
+
+
+----------------------------------------------------------------------------------------
+
 Q) The arithmetic mean of the observations 76, 28, 79, 17, 33, 95, 83, 30 and 27 is:
 Ans A. 61
 B. 46
@@ -412,5 +497,353 @@ Solution:
 
 ---------------------------------------------------------------------------------
 
+Q) 35 If an item marked at ₹3,650 is sold for ₹730, 
+what is the discount percentage?
+A. 78%
+B. 79%
+C. 82%
+D. 80%
 
+Solution:
+
+	Given:
+	* Marked Price (MP) = Rs 3650
+	* Selling Price (SP) = Rs 730
+	
+	Step 1: Find Discount
+	Discount = MP - SP 
+	         = 3650 - 730 
+			 = 2920
+
+	Step 2: Discount Percentage
+		
+	2920             2920             584             8
+	-----  x  100 =  -----  x 10  =  ------  x 10 =  ---  x 10 =  80%
+	3650              365             73              1
  
+------------------------------------------------------------------------------------ 
+ 
+Q.36 The market value of Amal’s investment rises successively by 5% in 2021, 
+6% in 2022,and 10% in 2023. If the initial value was ₹5,50,000, 
+what will be its value (in ₹) at the end of 2023?
+A. 6,73,365
+B. 6,75,900
+C. 6,75,365
+D. 6,75,800
+
+Solution: 
+
+* Point to remember:
+____________________________________________
+Correct Formula (Compound Growth / CI)      |
+			  n                             |
+	A = P (1+r)                             |
+____________________________________________|
+	
+		
+where: 
+P = Principal (initial value)
+r = rate in decimal (important)
+n = number of years
+A = final amount
+
+Important:
+If rate is in % , convert it :
+	  R
+ r = -----
+      100
+	  
+* P = 5,50,000
+* Rates are different each year -> so we use:
+	
+	A = P (1 + r1) (1 + r2) (1 + r3)
+	
+	A = P (1 + 5/100) (1 + 6/100) (1 + 10/100)
+	
+	A = 5,50,000 x (1.05)(1.06)(1.10)
+	
+	A = 5,50,000 x 1.113 x 1.10
+	
+	A = 5,50,000 x 1.2243
+	
+	A = 6,73,365
+	
+-----------------------------------------------------------------
+
+Q) A person saves 60% of his income. If his expenditure is 
+Rs 400, then his income (in Rs)
+
+A. 160
+B. 1040
+C. 240
+D. 1000
+
+Solution:
+
+	let his income = 𝑥
+	
+	if he saves 60% of his income means his expenditure is 40%
+	so,
+	
+	
+	400
+	---- x 100 = 40%
+	 𝑥
+	 
+	400
+	---- x 100 = 𝑥
+	 40
+	 
+ 	 	  400
+	𝑥 =   ----- x 100 = 1000
+	       40
+
+-----------------------------------------------------------------
+   
+Q) The HCF of two numbers is 23 and their sum is 161. The possible pair(s) of these
+numbers is/are:
+A. 3  <--
+B. 1
+C. 2
+D. 4
+
+Solution:
+
+Let the two numbers be:
+
+23𝑥 and 23y (since HCF = 23)
+
+Step 1: Form equation from sum
+
+	23𝑥 + 23y = 161
+	23(𝑥 + y) = 161
+	𝑥 + y = 161/23
+	𝑥 + y = 7
+	
+	
+Step 2: Find pairs of 𝑥,y such that:
+
+	𝑥 + y = 7
+	HCF of 𝑥 and y = 1 (because 23 is the only common factor)
+
+	1 + 6 = 7
+	2 + 5 = 7
+	3 + 4 = 7
+
+	Possible pairs:
+
+	(1, 6) → HCF = 1 
+	(2, 5) → HCF = 1 
+	(3, 4) → HCF = 1 
+
+Step 3: Convert back to actual numbers
+	(23, 138)
+	(46, 115)
+	(69, 92)
+
+All are valid.
+
+Final Answer:
+
+ Therefore, Total possible pairs = 3
+
+
+------------------------------------------------------------------------------------
+
+Q) A brother is 6 years older than his sister. The sum of their present ages is 38 years.
+What will be the age (in years) of the sister after 15 years from now?
+Ans A. 33
+B. 31
+C. 30
+D. 32
+
+Solution:
+
+let the current age of sister = 𝑥 and brother age = 𝑥 + 6
+Given sum of their present age is 38 years
+so  
+   𝑥 + 𝑥 + 6 = 38
+   2𝑥 + 6 = 38
+   2𝑥 = 38 - 6
+   2𝑥 = 32
+   𝑥  = 32/2
+   𝑥 = 16
+   
+so sister present age is 16
+
+so after 15 years sisters age will be
+
+	16 + 15 = 31 years
+   
+---------------------------------------------------------------------------------
+
+Q) Amit and Deeksha together invested ₹15,700 in a business. At the end of the year,
+out of a total profit of ₹6,000, Amit's share was ₹2,100. How much was Amit's
+investment?
+A. ₹6,960
+B. ₹6,545
+C. ₹5,495 <----
+D. ₹6,330 
+
+Solution:
+
+	Amit's share was Rs 2100 from Total Profit of Rs 6000
+	
+	so
+	
+	2100            210
+	----  x 100  = ----- =  35%  
+	6000             6
+
+	so Amit's share was 35% from Profit 
+	so Amit's investment must be also 35% of investment from Rs 15,700
+	
+	35
+	---  x  15700 = 5495
+	100
+	
+	so Amits investment was Rs 5495
+	
+------------------------------------------------------------------------------
+
+Q) Find the simple interest (in ₹) on ₹4,000 at 6% per annum rate of interest for the
+period from 19 February 2024 to 20 April 2024.	
+
+Solution:
+A. 41
+B. 40  <--
+C. 39
+D. 38
+
+Solution: 
+
+🔹 Step 1: Find number of days
+
+2024 is a leap year (Feb has 29 days)
+
+Feb: 19 to 29 → 10 days
+March → 31 days
+April: 1 to 20 → 20 days
+
+Total days = 10 + 31 + 20 = 61 days
+
+	Step 2: Convert time into years
+	     61 
+	T = ----
+	     366 (leap year)
+
+
+	Step 3: Apply SI formula
+	
+			   P x R x T
+		SI = ---------------
+                   100
+				   
+		       4000 x 6 x 61
+		SI =   --------------
+		        100  x  366
+				
+		       40 x 6 x 1	
+		SI  =  ----------		
+		        1 x 6
+			 
+		SI  = 40
+		
+------------------------------------------------------------------------------------
+
+Q) A shopkeeper sold an article for ₹85.50 at a profit of 12.5%. Had he sold it for
+₹81.70, then what would be his profit or loss percentage?
+A. 8.5% profit
+B. 7.25% loss
+C. 7.5% profit
+D. 8.5% loss
+		
+Solution:
+
+		let the article original price at which it is brought by 
+		shopkeeper be 𝑥.
+		
+		so selling product for Rs. 85.50 he earns 12.5% profit.
+		
+		so 85.50 is 112.5% price
+		
+		85.50
+		-----   x 100 = 112.5
+		  𝑥
+		  
+		85.50
+		------ x 100 = 𝑥
+		112.5
+		
+			85.50            85.50  
+		𝑥 = ------  x 100 = -------  x 8  =  9.50 x 8 = 76
+		     112.5             9
+			 
+		so original selling price of article was Rs 76
+		
+		so again he sold for 81.70 Rs
+		
+		Profit = 81.70 - 76 = 5.70 Rs
+		
+		Profit percentage:
+		
+		5.70           570    15
+		----- x 100 =  ---- = --- = 7.5%
+		  76            76     2
+		
+
+so 7.5% was final profit
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		  
+
+		   
