@@ -798,6 +798,178 @@ so 7.5% was final profit
 
 
 
+Q) Rajiv and Sachin started a business, investing amounts of ₹160 and ₹1,690,
+respectively. If Rajiv's share in the profit earned by them is ₹720, what is the total
+profit (in ₹) earned by them together?
+A. 8,454
+B. 8,325
+C. 8,361
+D. 8,395
+
+Solution:
+	
+	Rajiv invested Rs 160
+	Sachin inversted Rs 1690
+	
+	Rajiv's share in the profit is Rs 720
+		
+	720               9            900
+	----  x  100 =    --  x 100 = ------ = 450%
+	160               2             2
+	
+
+    so 450 % profit they earned both
+	
+	so total profit:
+	
+		total money they invested = 160 + 1690 = Rs 1850
+		
+		𝑥
+       ------  x 100 = 450
+        1850	   
+ 
+                      1850        
+		𝑥  =  350  x  ------  = 45 x 185 = 8325
+                       100
+
+so Total profit was Rs 8325 they earned together
+
+------------------------------------------------------------------------------------------
+
+Q) The cost of a washing machine is 10% less than the cost of a TV. If the cost of the
+washing machine increases by 65% and that of the TV decreases by 34%, then what
+is the percentage change in the total cost of 5 washing machines and 3 TVs?
+
+Solution:
+
+	Given :
+	cost of a washing machine is 10% less than the cost of a TV
+	
+                       
+	costWM = costTV - 10% of costTV
+
+	lets take costTV = 100
+	
+	so,
+	
+	                10     
+	costWM = 100 - ---- x 100  = 100 - 10 = 90
+                    100
+	
+	
+
+
+	* If cost of Washing Machine increases by 65%
+	
+	             
+	
+		
+	increasedAmountofWM
+	---------------   x 100  = 65
+	      90
+		
+		                         90             9     117       
+	increasedAmountofWM = 65  x ----  =  13  x --- =  ----  =  58.5
+                                 100            2       2     
+								 
+								 
+    * newCostWM = 90 + 58.5 = 148.5
+
+    	
+    * If the cost of Tv decreases by 34%
+	
+	decreasedAmountTV
+	------------------  x 100 = 34
+	      100
+
+                                100
+	 decreasedAmountTV = 34  x  ---- = 34
+                                 100
+
+
+    * newCostTV = 100 - 34 = 66
+	
+	
+	* so now comparing total 5 WM and 3TV price according to old and new prices:
+	
+	According to old prices
+	5 x 90 + 3 x 100 = 450 + 300 = 750
+	
+	According to new prices
+	5 x 148.5 + 3 x 66 = 742.5 + 198 = 940.5
+	
+		940.5 - 750 = 190.5 profit
+		
+		190.5            1905    
+		------ x 100 =  ------ = 25.4
+		 750              75
+		
+--------------------------------------------------------------------------------
+
+shortcut trick for above problem:
+
+WM  ->  TV - 10% of TV
+        
+		100 - (100 x (1 - 10/100)
+		100 - (100 x 0.9)
+		= 90
+
+WM -> + 65%
+
+			90 x (1 + 65/100)
+			90 x 1.65 = 148.5
+			
+TV -> -34%
+			100 x (1 - 34/100)
+			100 x 0.66 = 66
+			
+			
+--------------------------------------------------------------------------------
+
+Q) A toy is in the form of a cone mounted on a hemisphere, both having the same radius
+of 7 cm. If the volume of the conical part is equal to the volume of the hemispherical
+part, what is the total height of the toy?
+
+A. 35 cm
+B. 14 cm
+C. 28 cm
+D. 21 cm  <--
+
+Solution:
+
+				
+--------------------------------------------------------------------------------
+
+Q) Simplify the following:
+
+	4-[3 - 4/2 + {4-(5-2)}] + [4 + 18/2 x 3(4-2)]
+
+A. 60
+B. 58
+C. 56
+D. 54
+
+Solution:
+
+	4-[3 - 4/2 + {4 - (5-2)}] + [4 + 18/2 x 3(4-2)]
+	
+	4-[3 - 2 + {4 - 3}] + [4 + 9 x 3(2)]
+	
+	4-[3 - 2 + {1}] + [4 + 54]
+	
+	
+	4-[2] + [60]
+	2 + 58
+	60
+	
+-------------------------------------------------------------------------------
+
+Q) A shopkeeper marks the price of an article at ₹5,670. 
+Find the cost price if after allowing a discount of 28% 
+he still gains 26% on the cost price.
+
+Solution:
+
 
 
 
