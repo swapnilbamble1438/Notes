@@ -796,8 +796,6 @@ so 7.5% was final profit
 
 -------------------------------------------------------------------------------
 
-
-
 Q) Rajiv and Sachin started a business, investing amounts of ₹160 and ₹1,690,
 respectively. If Rajiv's share in the profit earned by them is ₹720, what is the total
 profit (in ₹) earned by them together?
@@ -964,11 +962,233 @@ Solution:
 	
 -------------------------------------------------------------------------------
 
+🔹 1. Cost Price (CP)
+
+👉 The price at which the shopkeeper buys the item.
+
+Example: He buys a shirt for ₹100 → CP = 100
+
+🔹 2. Marked Price (MP)
+
+👉 The price written/tagged on the item (before discount).
+
+Example: He puts tag ₹150 → MP = 150
+
+🔹 3. Selling Price (SP)
+
+👉 The price at which the item is actually sold after discount.
+
+Example: He gives discount and sells for ₹120 → SP = 120
+
+🔥 Flow (Very Important)
+
+		CP→MP→SP
+		
+First, he buys → CP
+Then marks higher price → MP
+Then gives discount and sells → SP
+
+🔥 From this you can find:
+
+✅ Selling Price (SP)
+
+	    SP =  MP x (1 - Discount)
+		
+✅ Cost Price (CP)
+
+                      SP
+	   CP =  --------------------
+	​              1 + Profit
+	
+	
+				OR
+				
+
+	          MP x (1 - Discount)
+	   CP =  --------------------
+	​              1 + Profit
+	
+	 
+
+------------------------------------------------------------------------------
+
 Q) A shopkeeper marks the price of an article at ₹5,670. 
 Find the cost price if after allowing a discount of 28% 
 he still gains 26% on the cost price.
 
+A. ₹3,153
+B. ₹3,216
+C. ₹3,225
+D. ₹3,240 <--
+
 Solution:
+	   
+	Given:
+	* Marked Price (MP) = Rs 5670
+	* Discount = 28%
+	* Profit = 26%
+	
+	Step 1: Find Selling Price (SP)
+	
+	After 28% discount:
+	
+	SP = 5670 x (1 - 0.28)
+	   = 5670 x 0.72
+	   = 4082.4
+	   
+	Step 2: Use Profit Condition
+	He gains 26% so:
+
+		    4082.4       4082.4
+	CP = ----------- =  -------- = 3240
+		  1 + (0.26)	  1.26
+	 
+		
+
+		
+----------------------------------------------------------------------------
+
+🔥 1. Core Idea (Most Important)
+Cost = Length × Rate
+
+
+
+-------------------------------------------------------------------------
+
+Q) The cost of fencing a square field at ₹15/m is ₹18,000. 
+Find the cost of fencing the same field at ₹11 per 100 m.
+
+A. ₹132
+B. ₹146
+C. ₹138
+D. ₹142
+
+Solution:
+	
+	Given:
+	Cost of fencing = Rs. 18000
+	Rate = Rs 15 per meter
+	
+	fence is rectangle/square boundry
+	Step 1: Find total length (Permieter of fence/Square)
+	
+			  Cost     18000
+	Length =  ----- =  ----- =  1200 m
+		       Rate      15
+			   
+	Stepe 2: New rate conversion
+
+	Given: Rs 11 per 100 m
+
+	so per meter:
+	              11
+		          ---  = 0.11 per m
+				  100
+				  
+	Step 3: Find new cost
+
+		New cost = 1200 x 0.11 = 132
+		  
+		
+---------------------------------------------------------------------------
+
+Q) A bag contains 1-rupee and 2-rupee coins. 
+The total number of coins is 10, and their total value is ₹16. 
+What is the difference between the numbers of two-rupee coins
+and one-rupee coins?
+A. 1
+B. 4
+C. 2
+D. 3	
+
+Solution:
+
+	let 1 rupee coin be 𝑥 number
+	and 2 rupee coin be y number 
+	
+	Given:
+	so Total number of Coins:
+	𝑥 + y = 10
+	
+	Total value:
+	1𝑥 + 2y = 16
+	
+	Solve:
+	From first equation:
+	𝑥 = 10 - y
+	
+	Put in second equation:
+	(10 - y) + 2y = 16
+	-y  + 2y = 16 - 10
+	 y = 6
+	
+	so there are 6 numbers of 2 rupee coins and 4 number of 1 ruppe coins
+	1(𝑥) + 2(y) = 16
+	1(4) + 2(6) = 16
+	4 + 12 = 16
+	
+-----------------------------------------------------------------------------
+
+Q) The number of prime numbers lying between 374 and 384 is:
+A. 0
+B. 2
+C. 1
+D. 3	
+	
+Solution:
+
+Let’s solve step by step 👇
+
+Numbers between 374 and 384 are:
+375, 376, 377, 378, 379, 380, 381, 382, 383
+
+🔍 Check prime numbers:
+375 ❌ (divisible by 5)
+376 ❌ (even)
+377 ❌ (13 × 29)
+378 ❌ (even)
+379 ✅ (prime)
+380 ❌ (even)
+381 ❌ (3 × 127)
+382 ❌ (even)
+383 ✅ (prime)
+✅ Prime numbers:
+
+379, 383
+
+✅ Total count: 2
+
+
+🔥 Fast Prime Check Trick
+Step 1: Basic elimination
+
+For any number:
+
+If even → ❌ not prime
+If ends with 5 → ❌ not prime
+If sum of digits divisible by 3 → ❌ not prime
+	
+--------------------------------------------------------------
+	
+    
+	
+	
+	
+	
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
 
 
 
