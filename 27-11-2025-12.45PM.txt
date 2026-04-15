@@ -982,11 +982,17 @@ Example: He gives discount and sells for ₹120 → SP = 120
 
 🔥 Flow (Very Important)
 
-		CP→MP→SP
+		CP → MP → SP
 		
 First, he buys → CP
 Then marks higher price → MP
 Then gives discount and sells → SP
+
+🔥 Important Clarification
+
+👉 Mark-up % ≠ Marked Price (MP)
+Marked Price (MP) → actual price tag (₹150 etc.)
+Mark-up % → percentage increase from CP to MP
 
 🔥 From this you can find:
 
@@ -1008,7 +1014,12 @@ Then gives discount and sells → SP
 	   CP =  --------------------
 	​              1 + Profit
 	
-	 
+
+✅ Mark-up %
+
+					 MP - CP
+		Mark-up% = ----------- x 100
+		               CP
 
 ------------------------------------------------------------------------------
 
